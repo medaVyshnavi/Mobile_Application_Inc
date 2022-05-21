@@ -1,0 +1,32 @@
+input {
+  width: 70%;
+  margin: 0.3rem 1rem 0.5rem 0;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  border: 1px solid black;
+}
+
+label {
+  color: #5f5f5f;
+}
+
+button {
+  padding: 0.3rem 1rem;
+  background: none;
+  color: #333388;
+  border: none;
+  border-radius: 0.2rem;
+  margin-left: 1.1rem;
+  background-color: #b2e0ef;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+button:hover {
+  color: #fff;
+  background-color: #00a7cb;
+}
+
+h5 {
+  font-size: 20px;
+}
